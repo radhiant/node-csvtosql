@@ -24,6 +24,12 @@ yarn-error.log*
 # local env files
 .env*.local
 
+# env
+.env*
+
+#gitiginore
+.gitiginore
+
 # vercel
 .vercel
 
